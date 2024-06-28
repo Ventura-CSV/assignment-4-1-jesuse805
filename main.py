@@ -4,7 +4,10 @@ def main():
         start = input('Enter the starting letter: ')
         end = input('Enter the starting letter: ')
 
-    if len(start) =! 1 or len(end) != or not start.isalpha() or  end.isalpha()
+        if len(start) != 1 or len(end) != 1 or not start.isalpha() or not end.isalpha():
+            print("Error: Enter only alphabetic char")
+            continue
+        
 
     print(*result)
 
