@@ -4,7 +4,7 @@ def main():
         start = input('Enter the starting letter: ')
         end = input('Enter the starting letter: ')
 
-    if len(start) =! 1
+    if len(start) =! 1 or len(end) != or not start.isalpha() or  end.isalpha()
 
     print(*result)
 
