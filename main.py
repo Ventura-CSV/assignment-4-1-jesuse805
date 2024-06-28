@@ -4,11 +4,7 @@ def main():
         start = input('Enter the starting letter: ')
         end = input('Enter the starting letter: ')
 
-    """
-    ########################################
-    Code Your Program here
-    ########################################
-    """
+    if len(start) =! 1
 
     print(*result)
 
