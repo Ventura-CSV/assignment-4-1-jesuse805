@@ -13,7 +13,8 @@ def main():
             continue
         
         letter = start
-        while 
+        while letter <= end:
+            result.append(letter)
         
 
     print(*result)
