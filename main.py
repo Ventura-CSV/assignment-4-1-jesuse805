@@ -8,6 +8,13 @@ def main():
             print("Error: Enter only alphabetic char")
             continue
         
+        if start <= end:
+            print("Error: Starting letter needs to be less than ending")
+            continue
+        
+        letter = start
+        while 
+        
 
     print(*result)
 
